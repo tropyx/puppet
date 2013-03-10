@@ -1,0 +1,4 @@
+puppet
+======
+
+Sample Puppet Configuration
