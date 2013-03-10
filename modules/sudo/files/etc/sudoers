@@ -96,6 +96,5 @@ root	ALL=(ALL) 	ALL
 ## Read drop-in files from /etc/sudoers.d (the # here does not mean a comment)
 #includedir /etc/sudoers.d
 
-## I added this in last thing to see if it updates everywhere automatically (mon feb 18 3am)
 
 
